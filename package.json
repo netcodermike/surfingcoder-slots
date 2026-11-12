@@ -1,0 +1,6 @@
+{
+  "name": "surfingcoder-slots",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test rules.test.mjs" }
+}
